@@ -1,0 +1,28 @@
+aside {
+    width: 30%;
+    background-color: #161F26;
+    padding: 20px;
+    color: #FFFFFF;
+    float: left;
+    .widget{
+        margin-bottom: 20px;
+        h3{
+            color: #ff8000;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #ff8000;
+        }
+        ul{
+            li{
+                border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+                padding: 10px 0;
+                a{
+                    text-decoration: none;
+                    color: #ffffff;
+                }
+            }
+        }
+        p{
+            line-height: 27px;
+        }
+    }
+}
